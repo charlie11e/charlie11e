@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Charles Evans
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+# Welcome to my page
+
+My name is Charles Evans and I am a student at the University of Notre Dame. I am majoring in Economics with minors in Data Science and Philosophy, Political Science, and Economics (PPE)
+
+
 
 <!---
 charlie11e/charlie11e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
