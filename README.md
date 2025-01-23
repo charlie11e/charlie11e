@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CHarles Evans
+- 👋 Hi, I’m Charles Evans
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on 
