@@ -16,7 +16,7 @@ I am Charles Evans, a student at the University of Notre Dame originally from Ke
 
 <h3>My Projects: </h3>
 
-<img align="left" width="200" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws38ZeKAvLwXAx_WmaTLvw1VdLFtzzeYpTbzAl8bm-fZ1sl43ftCVW6I3PZI7DGdlGHU&usqp=CAU"> **[MDSC 20009 - Intro to Data Science Portfolio ](https://github.com/jack-b-thomas/THOMAS-Data-Science-Portfolio)**
+<img align="left" width="200" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRws38ZeKAvLwXAx_WmaTLvw1VdLFtzzeYpTbzAl8bm-fZ1sl43ftCVW6I3PZI7DGdlGHU&usqp=CAU"> **[MDSC 20009 - Intro to Data Science Portfolio ](https://github.com/charlie11e/Evans-Data-Science-Portfolio/blob/main/README.md)**
 <p> This portfolio contains all of my projects for my Intro to Data Science course this semester. Click on the link to see what I am working on! 
 </p>
 <br>
