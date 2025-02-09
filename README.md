@@ -1,7 +1,7 @@
 
 # Welcome to my page
 
-I am Charles Evans, a student at the University of Notre Dame originally from Kentucky. I am majoring in Economics with minors in Data Science and Philosophy, Political Science, and Economics (PPE)
+I am Charles Evans, a student at the University of Notre Dame originally from Kentucky. I am majoring in Economics with minors in Data Science and Philosophy, Political Science, and Economics (PPE).
 
  <h3> Languages and Tools: </h3>
 <p>
